@@ -1,0 +1,30 @@
+PODS:
+  - FlickrKit (1.0.9)
+  - MapleBacon (3.0.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - Toast (3.1.0)
+
+DEPENDENCIES:
+  - FlickrKit
+  - MapleBacon
+  - SDWebImage
+  - Toast (~> 3.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlickrKit
+    - MapleBacon
+    - SDWebImage
+    - Toast
+
+SPEC CHECKSUMS:
+  FlickrKit: 79ffaf64a12293ba2b1aa8a2e53a4958cb113256
+  MapleBacon: 8fb0c45a0f147049ad49af6b36ac04a649baa74d
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+
+PODFILE CHECKSUM: 2fb4a587a1d395d9e6ba99db1e350976287673c9
+
+COCOAPODS: 1.5.3
